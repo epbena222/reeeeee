@@ -1,0 +1,15 @@
+h1{
+    font-size: 50px;
+}
+.p1{
+    text-align: center;
+}
+.p2{
+    text-align: right;
+}
+.p3{
+    kerning: 20px;   
+}
+img{
+    float: right;
+}
